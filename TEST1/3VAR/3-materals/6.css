@@ -1,0 +1,15 @@
+.univ{
+    width: 50%;
+    margin: 50px;
+}
+
+.univ .active{
+    width: 60%;
+}
+
+.univ a:first-child{
+    width: 50%;
+    min-width: 200px;
+    height: 80px;
+}
+
