@@ -1,0 +1,32 @@
+#redtext {
+    color: darkred;
+    font-weight: bold;
+
+}
+
+.link a {
+    color: darkred;
+}
+.link a:hover{
+    color: black;
+}
+th {
+    text-transform: uppercase;
+}
+
+table {
+    border-radius: 1rem;
+    border: 3px dotted darkred;
+    border-spacing: 10px 3px;
+    box-shadow: 5px 6px 13px darkred;
+}
+caption{
+    margin-bottom: 15px;
+}
+
+img{
+    position: absolute;
+    left: 20rem;
+    top: -1rem;
+    display:block;
+}
