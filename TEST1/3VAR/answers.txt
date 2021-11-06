@@ -1,0 +1,8 @@
+1.	Standards are needed to improve the compatibility of products from different companies on the Internet. W3C.
+2.	Input tag with type range
+3.	3.html
+4.	4.html
+5.	3.css
+6.	6.css
+7.	Add position:absolute to the link
+8.	8.css
